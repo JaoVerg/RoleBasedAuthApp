@@ -1,0 +1,22 @@
+@model dynamic
+<h2>Register</h2>
+<form method="post" asp-action="Register">
+    <div>
+        <label>Username</label>
+        <input type="text" name="username" />
+    </div>
+    <div>
+        <label>Password</label>
+        <input type="password" name="password" />
+    </div>
+    <div>
+        <label>Role</label>
+        <select name="role">
+            <option value="user">User</option>
+            <option value="admin">Admin</option>
+        </select>
+    </div>
+    <div>
+        <input type="submit" value="Register" />
+    </div>
+</form>
