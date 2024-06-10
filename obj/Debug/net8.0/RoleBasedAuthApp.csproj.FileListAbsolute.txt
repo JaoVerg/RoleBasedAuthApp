@@ -43,3 +43,4 @@ C:\Users\Administrator\Documents\something\beef\RoleBasedAuthApp\obj\Debug\net8.
 C:\Users\Administrator\Documents\something\beef\RoleBasedAuthApp\obj\Debug\net8.0\RoleBasedAuthApp.pdb
 C:\Users\Administrator\Documents\something\beef\RoleBasedAuthApp\obj\Debug\net8.0\RoleBasedAuthApp.genruntimeconfig.cache
 C:\Users\Administrator\Documents\something\beef\RoleBasedAuthApp\obj\Debug\net8.0\ref\RoleBasedAuthApp.dll
+C:\Users\Administrator\Documents\something\beef\RoleBasedAuthApp\obj\Debug\net8.0\RoleBasedAuthApp.sourcelink.json
